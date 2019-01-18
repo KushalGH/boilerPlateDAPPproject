@@ -68,6 +68,11 @@ const App = {
     createStar();
   },
 
+
+  lookupStar: function() {
+    lookupStar();
+  },
+
 }
 
 window.App = App
